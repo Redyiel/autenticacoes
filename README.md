@@ -51,3 +51,7 @@ Comando que utilizei para enviar as atualizações que fiz em minha máquina loc
 *E o que é branch? Novamente usando o comando "ao meu entender" ele é o código que pode ser ramificado, ou seja um código que pode ser modificado e ter novas versões, todavia o código original estará seguro se caso precisar do backup dele.*
 
 *Então compreendo que branch `main` é o código principal, que estou ramificando mas sem perder a versão original do mesmo.*
+
+## Ferramentas utilizadas
+
+Gerenciador de credenciais do Windows para remover o armazenamento do login salvo do GitHub para efetuar os testes de autenticações.

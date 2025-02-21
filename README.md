@@ -45,9 +45,9 @@ Admito que comecei tendo problemas, pois não estava na pasta do diretório em s
 `git push origin main`
 *Comando que utilizei para enviar as atualizações que fiz em minha máquina localmente o repositório que estava em nuvem, ou seja passando do Git para o GitHub.*
 
-Entendo que ao utilizar o termo "origin" em "git push" significa que estou atualizando a origem dele, ou seja da onde eu o clonei, da nuvem do GitHub.
+Entendo que ao utilizar o comando `origin` em `git push` significa que estou atualizando a origem dele, ou seja da onde eu o clonei, da nuvem do GitHub.
 
-Ao meu entender, esse comando serve para atualizar a Branch "Main" para o GitHub
-E o que é Branch? Novamente usando o termo "ao meu entender" ele é o código que pode ser ramificado, ou seja um código que pode ser modificado e ter novas versões, todavia o código original estará seguro se caso precisar do backup dele.
+Ao meu entender, esse comando serve para atualizar a branch `main` para o GitHub
+E o que é branch? Novamente usando o comando "ao meu entender" ele é o código que pode ser ramificado, ou seja um código que pode ser modificado e ter novas versões, todavia o código original estará seguro se caso precisar do backup dele.
 
 Então compreendo que Branch "Main" é o código principal, que estou ramificando mas sem perder a versão original do mesmo.

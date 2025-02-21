@@ -50,4 +50,4 @@ Comando que utilizei para enviar as atualizações que fiz em minha máquina loc
 *Ao meu entender, esse comando serve para atualizar a branch `main` para o GitHub.*
 *E o que é branch? Novamente usando o comando "ao meu entender" ele é o código que pode ser ramificado, ou seja um código que pode ser modificado e ter novas versões, todavia o código original estará seguro se caso precisar do backup dele.*
 
-*Então compreendo que Branch "Main" é o código principal, que estou ramificando mas sem perder a versão original do mesmo.*
+*Então compreendo que branch `main` é o código principal, que estou ramificando mas sem perder a versão original do mesmo.*

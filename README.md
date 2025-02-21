@@ -34,15 +34,15 @@ Ao meu entender "Commit" é um registro informativo feito por você da sua alter
 `git status`
 *// Comando para checar o status atual do repositório.*
 
-cd <diretório>
+`cd <diretório>`
 *// Comando para navegar entre os diretórios*
 
 Admito que comecei tendo problemas, pois não estava na pasta do diretório em si, e sim em na pasta onde estava a pasta dele.
 
-ls
+`ls`
 *// Comando para visualizar o que se encontra naquele diretório.*
 
-git push origin main
+`git push origin main`
 *// Comando que utilizei para enviar as atualizações que fiz em minha máquina localmente o repositório que estava em nuvem, ou seja passando do Git para o GitHub.*
 
 Entendo que ao utilizar o termo "origin" em "git push" significa que estou atualizando a origem dele, ou seja da onde eu o clonei, da nuvem do GitHub.

@@ -43,6 +43,8 @@ ls
 git push origin main
 // Comando que utilizei para enviar as atualizações que fiz em minha máquina localmente o repositório que estava em nuvem, ou seja passando do Git para o GitHub. 
 
+Entendo que ao utilizar o termo "origin" em "git push" significa que estou atualizando a origem dele, ou seja da onde eu o clonei, da nuvem do GitHub.
+
 Ao meu entender, esse comando serve para atualizar a Branch "Main" para o GitHub
 E o que é Branch? Novamente usando o termo "ao meu entender" ele é o código que pode ser ramificado, ou seja um código que pode ser modificado e ter novas versões, todavia o código original estará seguro se caso precisar do backup dele.
 

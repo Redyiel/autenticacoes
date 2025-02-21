@@ -28,7 +28,7 @@ Exemplo: `git clone https://github.com/Redyiel/autenticacoes`
 *Comando para especificar uma mensagem sobre a alteração feita no repositório, com o objetivo de salvar o histórico da linha do tempo do repositório.*
 Exemplo: `git commit -m "README.md atualizado com mais informações"`
 
-Ao meu entender "Commit" é um registro informativo feito por você da sua alteração na linha do tempo do seu repositório. 
+Ao meu entender `commit` é um registro informativo feito por você da sua alteração na linha do tempo do seu repositório. 
 *Gosto de o interpretar como um comentário feito para dizer sobre o que aconteceu naquele momento no repositório.*
 
 `git status`

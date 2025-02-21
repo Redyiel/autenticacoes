@@ -54,4 +54,4 @@ Comando que utilizei para enviar as atualizações que fiz em minha máquina loc
 
 ## Ferramentas utilizadas
 
-Gerenciador de credenciais do Windows para remover o armazenamento do login salvo do GitHub para efetuar os testes de autenticações.
+Gerenciador de Credenciais do Windows para remover o armazenamento do login salvo do GitHub para efetuar os testes de autenticações.

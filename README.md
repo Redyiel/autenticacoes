@@ -77,7 +77,7 @@ A chave privada não se compartilha com ninguém por segurança.
 `cat <nome-da-chave>`  
 *Ao meu entendimento é o comando para descriptografar a chave, para copiar e colar no GitHub https://github.com/settings/keys, para liberar o acesso sem ter as credenciais do usuário.*  
 
-O link para trabalhar em um repositório com acesso concedido através do SSH é o "link SSH"  
+*O link para trabalhar em um repositório com acesso concedido através do SSH é o "link SSH"*  
 ![Link SSH](https://github.com/Redyiel/autenticacoes/blob/main/Link%20SSH.png)  
 
 ## 🗑️ Gerenciador de Credenciais do Windows  

@@ -1,11 +1,14 @@
-# Autenticações
+# 📚 Estudos sobre autenticações
 Repositório de teste criado a fim de estudos sobre o GitHub através da Formação GitHub Certification da Dio.me
 
-## Teste feitos:
+## 📝 Testes  feitos:
 - Autenticação via nome de usuário e senha.
 - Autenticação via Token de acesso pessoal. https://github.com/settings/tokens
+- Autenticação via SSH 
 
-## Comandos utilizados no Git:
+## 📟 Comandos utilizados no Git:
+
+### 🛠️ Configurando o Git
 
 `git config --global user.name "nome"`
 Comando para configurar meu nome de usuário, tal nome de usuário que tem que ser idêntico ao do GitHub para funcionamento.
@@ -16,6 +19,8 @@ Comando para configurar meu e-mail, tal e-mail que tem que ser idêntico ao do G
 
 `git config --list`
 Comando para retornar a lista de configurações.
+
+### 🔄 Adicionando ou atualizando o repositório
 
 `git clone <url>`
 Comando para clonar o repositório que criei no GitHub para esse estudo de autenticações.
@@ -52,6 +57,26 @@ Comando que utilizei para enviar as atualizações que fiz em minha máquina loc
 
 *Então compreendo que branch `main` é o código principal, que estou ramificando mas sem perder a versão original do mesmo.*
 
-## Ferramentas utilizadas
+### 🔐 Configurando autenticação SSH
 
-Gerenciador de Credenciais do Windows para remover o armazenamento do login salvo do GitHub para efetuar os testes de autenticações.
+**🤔 O que é e para que serve o SSH no contexto do GitHub?**
+Com as chaves SSH, é possível se conectar ao GitHub sem fornecer o nome de usuário e o personal access token em cada visita. Você também pode usar uma chave SSH para assinar commits.
+Fonte: https://docs.github.com/pt/authentication/connecting-to-github-with-ssh
+
+`ssh-keygen`
+Comando para gerar uma chave SSH.
+Após gerar a pasta, irá solicitar uma senha (passphrase) não obrigatória.
+
+**📁 Onde estará a chave SSH?**
+No diretório citado pelo resultado do comando.
+
+**🔑 Sobre as chaves**
+A chave que vamos utilizar é a pública, ou seja a .pub
+A chave privada não se compartilha com ninguém por segurança.
+
+`cat <nome-da-chave>`
+Ao meu entendimento é o comando para descriptografar a chave, para copiar e colar no GitHub https://github.com/settings/keys, para liberar o acesso sem ter as credenciais do usuário.
+
+## 🗑️ Gerenciador de Credenciais do Windows
+
+Foi utilizado o Gerenciador de Credenciais do Windows para remover o armazenamento do login salvo do GitHub para efetuar os testes de autenticações.

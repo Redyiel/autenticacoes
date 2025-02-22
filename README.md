@@ -70,7 +70,7 @@ Após gerar a pasta, irá solicitar uma senha (passphrase) não obrigatória.
 **📁 Onde estará a chave SSH?**
 No diretório citado pelo resultado do comando.
 
-**🔑 Sobre as chaves**
+**🔑 Sobre as chaves:**
 A chave que vamos utilizar é a pública, ou seja a .pub
 A chave privada não se compartilha com ninguém por segurança.
 
@@ -78,7 +78,7 @@ A chave privada não se compartilha com ninguém por segurança.
 Ao meu entendimento é o comando para descriptografar a chave, para copiar e colar no GitHub https://github.com/settings/keys, para liberar o acesso sem ter as credenciais do usuário.
 
 O link para trabalhar em um repositório com acesso concedido através do SSH é o "link SSH" 
-![alt text](https://github.com/Redyiel/autenticacoes/blob/main/Link%20SSH.png)
+![Link SSH](https://github.com/Redyiel/autenticacoes/blob/main/Link%20SSH.png)
 
 ## 🗑️ Gerenciador de Credenciais do Windows
 

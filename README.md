@@ -4,7 +4,7 @@ Repositório de teste criado a fim de estudos sobre o GitHub através da Formaç
 ## 📝 Testes  feitos:  
 - Autenticação via nome de usuário e senha.  
 - Autenticação via Token de acesso pessoal. https://github.com/settings/tokens  
-- Autenticação via SSH  
+- Autenticação via SSH. https://github.com/settings/keys  
 
 ## 📟 Comandos utilizados no Git:  
 

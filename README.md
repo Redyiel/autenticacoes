@@ -80,6 +80,12 @@ A chave privada não se compartilha com ninguém por segurança.
 *O link para trabalhar em um repositório com acesso concedido através do SSH é o "link SSH"*  
 ![Link SSH](https://github.com/Redyiel/autenticacoes/blob/main/Link%20SSH.png)  
 
+`git remote set-url origin git@github.com:<link-ssh>`
+Exemplo: `git remote set-url origin git@github.com:Redyiel/autenticacoes.git`
+*Comando que ao meu entender é para trocar o módulo HTTPS do Git para um módulo de link SSH tornando possível trabalhar com o repositório remotamente através do SSH*
+
+Ao fazer o comando de `git push` em um repositório acessado através de SSH poderá ocorrer uma pergunta do terminal questionando se é uma conexão segura.
+
 ## 🗑️ Gerenciador de Credenciais do Windows  
 
 Foi utilizado o Gerenciador de Credenciais do Windows para remover o armazenamento do login salvo do GitHub para efetuar os testes de autenticações.  

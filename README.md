@@ -2,6 +2,7 @@
 Repositório de teste criado a fim de estudos sobre o GitHub através da Formação GitHub Certification da Dio.me  
 
 ## 📝 Testes  feitos:  
+- Criação desse repositório *(Meu primeiro repositório)*
 - Autenticação via nome de usuário e senha.  
 - Autenticação via Token de acesso pessoal. https://github.com/settings/tokens  
 - Autenticação via SSH. https://github.com/settings/keys  

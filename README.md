@@ -23,17 +23,17 @@ Comando para retornar a lista de configurações.
 ### 🔄 Adicionando ou atualizando o repositório  
 
 `git clone <url>`  
-Comando para clonar o repositório que criei no GitHub para esse estudo de autenticações.  
+Comando para clonar um repositório do GitHub 
 Exemplo: `git clone https://github.com/Redyiel/autenticacoes`  
 
 `git add .`  
-Comando para adicionar as alterações feitas no repositório em minha máquina depois que ele foi clonado.  
+Comando para adicionar as alterações feitas no repositório na máquina local depois que ele foi clonado.  
 
 `git commit -m "mensagem"`  
 Comando para especificar uma mensagem sobre a alteração feita no repositório, com o objetivo de salvar o histórico da linha do tempo do repositório.  
 Exemplo: `git commit -m "README.md atualizado com mais informações"`  
 
-*Ao meu entender `commit` é um registro informativo feito por você da sua alteração na linha do tempo do seu repositório.*  
+*Ao meu entender `commit` é um registro informativo feito por você da sua alteração na linha do tempo do repositório.*  
 *Gosto de o interpretar como um comentário feito para dizer sobre o que aconteceu naquele momento no repositório.*  
 
 `git status`  
